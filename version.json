@@ -1,7 +1,8 @@
 {
-  "latestVersionCode": 16,
+  "latestVersionCode": 16.1,
   "latestVersionName": "0.9.3",
   "updateNotes": "● 홈 화면 편의성 강화: 다음 미국 증시 휴장일 날짜 및 공휴일 명칭 표시 기능 추가\n● 알림 시스템 영구 자동화: 2030년 이후까지 별도 업데이트 없이 휴장일 자동 판별\n● 리포트 시스템 고도화: 누적 수익 스노우볼 차트 시각화 보정 및 리스크 지표 정립\n● 홈 화면 ETF 상세 가이드 제공 및 정보 중립성 강화\n● 투자 유의사항 안내 도입 및 화면 전환 애니메이션 최적화",
   "downloadUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v0.9.3.apk",
   "isForceUpdate": false
 }
+
