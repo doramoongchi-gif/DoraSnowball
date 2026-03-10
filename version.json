@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 19,
-  "latestVersionName": "0.9.5",
-  "updateNotes": "● 앱 안정성 강화: 홈 화면 진입 시 발생하던 화면 멈춤(ANR) 현상을 비동기 연산 처리를 통해 해결했습니다.\n● 환율 정보 개선: 원/달러 환율 차트의 최고/최저가 라벨 표시 및 가독성을 개선했습니다.\n● 부분손절 로직 고도화: CA 예약 매매 시 부분손절 우선순위 및 UI 안내 문구를 최적화했습니다.",
-  "downloadUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v0.9.5.apk",
+  "latestVersionCode": 20,
+  "latestVersionName": "0.9.6",
+  "updateNotes": "● 빌드 오류 수정: themes.xml의 네임스페이스 오류를 수정하여 빌드 안정성을 확보했습니다.\n● 버전 업데이트: 안정화된 버전을 배포합니다.",
+  "downloadUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v0.9.6.apk",
   "isForceUpdate": false
 }
