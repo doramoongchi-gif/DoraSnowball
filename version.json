@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 23,
-  "latestVersionName": "0.9.9",
-  "updateNotes": "● 카드 뒷면: 다크/라이트 모드 가독성 개선, RSI 단계별 색상 적용\n● PIP 모드: 헤더 제거 및 레이아웃 정리, 폰트 크기 조정, 소수점 표시 수정\n●그 외 버그수정",
-  "downloadUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v0.9.9.apk",
+  "latestVersionCode": 24,
+  "latestVersionName": "0.9.10",
+  "updateNotes": "● 리포트 탭: 원화 환산 금액 폰트 크기 및 가시성 최적화\n● 빌드 버전 업데이트 및 시스템 안정성 강화",
+  "downloadUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v0.9.10.apk",
   "isForceUpdate": false
 }
