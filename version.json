@@ -1,7 +1,7 @@
 {
   "latestVersionCode": 26,
   "latestVersionName": "0.10.1",
-  "updateNotes": "● 시스템 정밀도 보완: BigDecimal 연산 정합성 및 UI 표시 최적화\n● DB 마이그레이션 안정화: v14 스키마 설정 보완\n● 배포용 릴리스 빌드 생성● 시스템 정밀도 보완: BigDecimal 연산 정합성 및 UI 표시 최적화\n● DB 마이그레이션 안정화: v14 스키마 설정 보완\n● 배포용 릴리스 빌드 생성",
+  "updateNotes": "● 시스템 정밀도 보완: BigDecimal 연산 정합성 및 UI 표시 최적화\n● DB 마이그레이션 안정화: v14 스키마 설정 보완\n● 시스템 정밀도 보완: BigDecimal 연산 정합성 및 UI 표시 최적화\n● DB 마이그레이션 안정화: v14 스키마 설정 보완\n● 배포용 릴리스 빌드 생성",
   "downloadUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v0.10.1.apk",
   "isForceUpdate": false
 }
