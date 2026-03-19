@@ -1,7 +1,7 @@
 {
   "latestVersionCode": 27,
   "latestVersionName": "0.10.2",
- "updateNotes": "PIP 창 비율 조정\n● 누적 수익 차트 개선\n● 거래 결과 팝업 UI 최적화: 전량매도 시에만 거래 기간 표시\n● 동영상 비율 왜곡 수정: 16:9 Center Crop 적용",
+ "updateNotes": "● PIP 창 비율 조정\n● 누적 수익 차트 개선\n● 거래 결과 팝업 UI 최적화: 전량매도 시에만 거래 기간 표시\n● 동영상 비율 왜곡 수정: 16:9 Center Crop 적용",
   "downloadUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v0.10.2.apk",
   "isForceUpdate": false
 }
