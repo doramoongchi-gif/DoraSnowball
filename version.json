@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 27,
-  "latestVersionName": "0.10.2",
- "updateNotes": "● PIP 창 비율 조정\n● 누적 수익 차트 개선\n● 거래 결과 팝업 UI 최적화: 전량매도 시에만 거래 기간 표시\n● 동영상 비율 왜곡 수정: 16:9 Center Crop 적용",
-  "downloadUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v0.10.2.apk",
+  "latestVersionCode": 28,
+  "latestVersionName": "0.10.3",
+  "updateNotes": "● PIP 창 비율 및 투명도 조정\n● 모든 팝업의 계산 로직을 카드 뒷면 데이터와 일원화\n● 손실 시 동영상 팝업 미출력 및 리소스 최적화\n● 카드 앞면 '자산 구성'을 '총 자산 성장' 스노우볼 차트로 교체\n● 스노우볼 차트에 동적 펄스 애니메이션 적용",
+  "downloadUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v0.10.3.apk",
   "isForceUpdate": false
 }
