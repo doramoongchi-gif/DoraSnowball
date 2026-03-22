@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 30,
-  "latestVersionName": "0.10.5",
-  "updateNotes": "● '가격 교량' 차트 도입: 평단가~목표가 간격 시각화 및 에너지 애니메이션 적용\n● PIP 모드 개인화 강화: 세로 크기 및 폰트 크기 사용자 조절 기능 추가\n● PIP 레이아웃 최적화: 가격(50%, 중앙)과 수량(50%, 우측) 2분할 가시성 강화\n● UI 최적화: 목표가 근접 알림 및 다크모드 전용 컬러 시스템 적용",
-  "downloadUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v0.10.5.apk",
+  "latestVersionCode": 32,
+  "latestVersionName": "0.10.7",
+  "updateNotes": "● 소스 코드 전면 리팩토링: ViewModel Context 의존성 제거 및 Repository 구조 최적화\n● 금융 계산 정밀도 강화: FinanceUtil 도입으로 모든 수익률 및 수수료 연산 표준화\n● UI 컴포넌트 구조화: MainActivity 경량화 및 다이얼로그/보안 화면 분리\n● 시스템 최적화: 미사용 리소스 및 코드 제거를 통한 앱 경량화 및 빌드 안정성 확보",
+  "downloadUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v0.10.7.apk",
   "isForceUpdate": false
 }
