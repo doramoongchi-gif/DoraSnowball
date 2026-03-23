@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 32,
-  "latestVersionName": "0.10.7",
-  "updateNotes": "● 소스 코드 전면 리팩토링: ViewModel Context 의존성 제거 및 Repository 구조 최적화\n● 금융 계산 정밀도 강화: FinanceUtil 도입으로 모든 수익률 및 수수료 연산 표준화\n● UI 컴포넌트 구조화: MainActivity 경량화 및 다이얼로그/보안 화면 분리\n● 시스템 최적화: 미사용 리소스 및 코드 제거를 통한 앱 경량화 및 빌드 안정성 확보",
-  "downloadUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v0.10.7.apk",
+  "latestVersionCode": 33,
+  "latestVersionName": "0.10.8",
+  "updateNotes": "● 시뮬레이션 고도화: 종목과 투자금액, 투자기간을 설정하면 최적의 시뮬레이션 파라미터를 찾는 기능 추가\n● 홈 화면 UI 개선: 공포탐욕지수 및 VIX 게이지 레이아웃 최적화로 텍스트 겹침 현상 해결\n● 코드 안정화: HomeScreen 내 구문 오류 수정 및 함수 구조 정렬",
+  "downloadUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v0.10.8.apk",
   "isForceUpdate": false
 }
