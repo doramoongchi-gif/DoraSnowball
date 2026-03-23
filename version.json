@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 33,
-  "latestVersionName": "0.10.8",
-  "updateNotes": "● 시뮬레이션 고도화: 종목과 투자금액, 투자기간을 설정하면 최적의 시뮬레이션 파라미터를 찾는 기능 추가\n● 홈 화면 UI 개선: 공포탐욕지수 및 VIX 게이지 레이아웃 최적화로 텍스트 겹침 현상 해결\n● 코드 안정화: HomeScreen 내 구문 오류 수정 및 함수 구조 정렬",
-  "downloadUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v0.10.8.apk",
+  "latestVersionCode": 34,
+  "latestVersionName": "0.10.9",
+  "updateNotes": "● 리스크 지표 세분화: 전체 계좌 MDD와 개별 사이클 MDD를 분리하여 전략의 변동성과 계좌 안정성을 동시 확인\n● 리포트 탭 고도화: 투자 전략 성적표의 각 항목별 상세 설명 추가 및 레이아웃 개선\n● 시뮬레이션 동기화: 시뮬레이션 엔진의 수익금 계산 로직을 실제 카드 탭과 동일하게 정렬(최고점 수익 기준)\n● UI 개선: 낙폭 지표의 색상을 파란색으로 통일하여 수익률 지표와 명확히 구분",
+  "downloadUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v0.10.9.apk",
   "isForceUpdate": false
 }
