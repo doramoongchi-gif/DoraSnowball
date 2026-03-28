@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 36,
-  "latestVersionName": "1.0.0",
-  "updateNotes": "● 아키텍처 전면 개편: 클린 아키텍처 및 Hilt DI 도입으로 시스템 안정성 및 유지보수성 향상\n● 구글 드라이브 자동 백업: 설정 탭에서 구글 계정 연동을 통한 일일 자동 백업 기능 추가\n● 성능 최적화: 카드 뒷면 대량 거래 내역 조회 시 버벅거림 해결 (LazyColumn 적용)\n● 분석 지표 고도화: 샤프 지수(Sharpe Ratio) 및 승률(Win Rate) 분석 기능 추가",
-  "downloadUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.0.apk",
+  "latestVersionCode": 37,
+  "latestVersionName": "1.0.1",
+  "updateNotes": "● 시스템 용어 통일: 'Reservation'을 'Strategy'로 전면 교체하여 전략 중심의 구조로 개선\n● 시뮬레이션 개선: 가상 카드 내 '매수시도액' 기록 로직 정상화\n● VIX 지수 고도화: 시장 상황에 따라 게이지 범위를 자동 확장(10~80)하는 가변 스케일 도입\n● 알림 개선: 알림 아이콘을 앱 공식 런처 아이콘으로 변경\n● 데이터 안정성: 거래 추가 시 날짜/종가 기준 중복 방지 경고 로직 강화",
+  "downloadUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.1.apk",
   "isForceUpdate": false
 }
