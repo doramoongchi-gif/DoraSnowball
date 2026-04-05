@@ -1,6 +1,7 @@
 {
-  "latestVersionCode": 46,
-  "latestVersionName": "1.0.9",
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.9.apk",
-  "updateMessage": "양도소득세 정밀 계산 및 레이아웃 최적화 업데이트가 완료되었습니다."
+  "latestVersionName": "1.0.10",
+  "latestVersionCode": 47,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.10.apk",
+  "isForceUpdate": false,
+  "updateMessage": "VIX 지수 데이터 자동 전환 및 UI 개선, 시스템 안정성 강화 (Refactoring)"
 }
