@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.10",
-  "latestVersionCode": 47,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.10.apk",
+  "latestVersionName": "1.0.11",
+  "latestVersionCode": 48,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.11.apk",
   "isForceUpdate": false,
-  "updateMessage": "VIX 지수 데이터 자동 전환 및 UI 개선, 시스템 안정성 강화 (Refactoring)"
+  "updateMessage": "리포트 낙폭 계산 오류 수정 및 시뮬레이션 입력 편의성 개선"
 }
