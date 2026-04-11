@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.11",
-  "latestVersionCode": 48,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.11.apk",
+  "latestVersionName": "1.0.12",
+  "latestVersionCode": 49,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.12.apk",
   "isForceUpdate": false,
-  "updateMessage": "리포트 낙폭 계산 오류 수정 및 시뮬레이션 입력 편의성 개선"
+  "updateMessage": "수익금 전액 재투자 복리 로직 강화 및 시뮬레이션 엔진 최적화"
 }
