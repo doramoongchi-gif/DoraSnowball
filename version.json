@@ -1,6 +1,6 @@
 {
   "latestVersionName": "1.0.13",
-  "latestVersionCode": 50,
+  "latestVersionCode": 51,
   "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.13.apk",
   "isForceUpdate": false,
   "updateMessage": "v1.0.13: 아키텍처 대규모 리팩토링 및 금융 계산 정밀도 강화"
