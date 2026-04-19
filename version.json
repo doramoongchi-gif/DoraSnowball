@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.16",
-  "latestVersionCode": 53,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.16.apk",
+  "latestVersionName": "1.0.17",
+  "latestVersionCode": 54,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.17.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.16: 버그수정"
+  "updateMessage": "v1.0.17: RSI 지표 정밀도 향상, RSI 동기화 기능 및 통합 차트 도입, 거래 예약 시스템 최적화"
 }
