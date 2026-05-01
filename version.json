@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.20",
-  "latestVersionCode": 57,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.20.apk",
+  "latestVersionName": "1.0.21",
+  "latestVersionCode": 58,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.21.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.20: 수익률 예측 기능 추가, 리포트 지표 간소화 및 내부 로직 최적화"
+  "updateMessage": "v1.0.21: ETF 액면분할/병합 자동 지원, 데이터 동기화 시스템 개선 및 로직 최적화"
 }
