@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.21",
-  "latestVersionCode": 58,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.21.apk",
+  "latestVersionName": "1.0.22",
+  "latestVersionCode": 59,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.22.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.21: ETF 액면분할/병합 자동 지원, 데이터 동기화 시스템 개선 및 로직 최적화"
+  "updateMessage": "v1.0.22: 코드 리팩토링 및 안정성 강화"
 }
