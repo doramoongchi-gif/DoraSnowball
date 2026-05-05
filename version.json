@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.22",
-  "latestVersionCode": 59,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.22.apk",
+  "latestVersionName": "1.0.23",
+  "latestVersionCode": 60,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.23.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.22: 코드 리팩토링 및 안정성 강화"
+  "updateMessage": "v1.0.23: 지표 정확도 개선 및 네트워크 안정화"
 }
