@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.23",
-  "latestVersionCode": 60,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.23.apk",
+  "latestVersionName": "1.0.24",
+  "latestVersionCode": 61,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.24.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.23: 지표 정확도 개선 및 네트워크 안정화"
+  "updateMessage": "v1.0.24: 카드생성시 입력값 확인 다이얼로그 표시 및 ETF 종목 추가"
 }
