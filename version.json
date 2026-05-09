@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.25",
-  "latestVersionCode": 62,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.25.apk",
+  "latestVersionName": "1.0.26",
+  "latestVersionCode": 63,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.26.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.25: 로그인 시스템 도입 및 보안 강화"
+  "updateMessage": "v1.0.26: 로그인 기능 고도화 및 ETF 종목 추가"
 }
