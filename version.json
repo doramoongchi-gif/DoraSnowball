@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.27",
-  "latestVersionCode": 65,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.27.apk",
+  "latestVersionName": "1.0.28",
+  "latestVersionCode": 66,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.28.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.27: 공포탐욕지수 출처 변경 및 휴장일 정보 강화"
+  "updateMessage": "v1.0.28: 로그인 필수화 및 후원 기능 추가"
 }
