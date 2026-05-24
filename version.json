@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.29",
-  "latestVersionCode": 67,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.29.apk",
+  "latestVersionName": "1.0.30",
+  "latestVersionCode": 68,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.30.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.29: 소스 코드 점검 및 리포트 예측 로직 정밀화"
+  "updateMessage": "v1.0.30: 버그 수정"
 }
