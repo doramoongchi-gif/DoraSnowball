@@ -2,6 +2,6 @@
   "latestVersionName": "1.0.31",
   "latestVersionCode": 69,
   "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.31.apk",
-  "isForceUpdate": false,
+  "isForceUpdate": true,
   "updateMessage": "v1.0.31: UI 개선 및 아키텍처 고도화"
 }
