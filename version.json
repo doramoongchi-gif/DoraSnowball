@@ -1,7 +1,7 @@
 {
   "latestVersionName": "1.0.33",
-  "latestVersionCode": 72,
+  "latestVersionCode": 71,
   "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.33.apk",
-  "isForceUpdate": false,
+  "isForceUpdate": true,
   "updateMessage": "v1.0.33: 앱 업데이트 로직 개선 및 안정화"
 }
