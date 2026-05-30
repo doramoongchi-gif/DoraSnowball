@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.32",
-  "latestVersionCode": 70,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.32.apk",
+  "latestVersionName": "1.0.33",
+  "latestVersionCode": 71,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.33.apk",
   "isForceUpdate": true,
-  "updateMessage": "v1.0.32: 차트 안정성 강화 및 목표 수익률 설정 기능"
+  "updateMessage": "v1.0.33: 강제 업데이트 로직 개선 및 안정화"
 }
