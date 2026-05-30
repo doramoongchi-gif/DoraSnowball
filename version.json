@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.33",
-  "latestVersionCode": 71,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.33.apk",
-  "isForceUpdate": true,
-  "updateMessage": "v1.0.33: 앱 업데이트 로직 개선 및 안정화"
+  "latestVersionName": "1.0.34",
+  "latestVersionCode": 72,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.34.apk",
+  "isForceUpdate": false,
+  "updateMessage": "v1.0.34: 수익등급 게이지 표시, 아키텍처 고도화 및 백업 로직 강화"
 }
