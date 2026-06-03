@@ -2,6 +2,6 @@
   "latestVersionName": "1.0.37",
   "latestVersionCode": 76,
   "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.37.apk",
-  "isForceUpdate": false,
+  "isForceUpdate": true,
   "updateMessage": "v1.0.37: ETF 목록 변경(YINN, DPST, TMF 삭제 및 KORU 추가) 및 정렬 개선"
 }
