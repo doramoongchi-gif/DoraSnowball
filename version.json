@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.37",
-  "latestVersionCode": 76,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.37.apk",
+  "latestVersionName": "1.0.38",
+  "latestVersionCode": 77,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.38.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.37: ETF 목록 변경(YINN, DPST, TMF 삭제 및 KORU 추가) 및 정렬 개선"
+  "updateMessage": "v1.0.38: 구글 드라이브 복원 개선 및 앱 활성화 시 자동 갱신"
 }
