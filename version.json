@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.38",
-  "latestVersionCode": 77,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.38.apk",
+  "latestVersionName": "1.0.39",
+  "latestVersionCode": 78,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.39.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.38: 구글 드라이브 복원 개선 및 앱 활성화 시 자동 갱신"
+  "updateMessage": "v1.0.39: 생체 인증 보안 고도화 및 더보기 탭 개편"
 }
