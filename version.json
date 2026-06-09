@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.40",
-  "latestVersionCode": 79,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.40.apk",
-  "isForceUpdate": true,
-  "updateMessage": "v1.0.40: 알림 및 데이터 갱신 안정성 강화"
+  "latestVersionName": "1.0.41",
+  "latestVersionCode": 80,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.41.apk",
+  "isForceUpdate": false,
+  "updateMessage": "v1.0.41: 토스증권 API 연동 및 자동 주문 기능 추가"
 }
