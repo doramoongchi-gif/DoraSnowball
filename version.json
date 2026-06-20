@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.43",
-  "latestVersionCode": 82,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.43.apk",
+  "latestVersionName": "1.0.44",
+  "latestVersionCode": 83,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.44.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.43: 보안 강화: Toss API Key 암호화 적용"
+  "updateMessage": "v1.0.44: 등급 상향 축하 효과 및 휴장일 안내 시각 효과 강화"
 }
