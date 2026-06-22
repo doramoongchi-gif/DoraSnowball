@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.44",
-  "latestVersionCode": 83,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.44.apk",
+  "latestVersionName": "1.0.45",
+  "latestVersionCode": 84,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.45.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.44: 등급 상향 축하 효과 및 휴장일 안내 시각 효과 강화"
+  "updateMessage": "v1.0.45: 시스템 안정성 강화 및 금융 연산 정밀도 고도화"
 }
