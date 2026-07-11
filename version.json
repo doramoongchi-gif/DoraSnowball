@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.47",
-  "latestVersionCode": 86,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.47.apk",
+  "latestVersionName": "1.0.48",
+  "latestVersionCode": 87,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.48.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.47: AI 브리핑 지능화 및 주문 안정성 강화"
+  "updateMessage": "v1.0.48: 시스템 안정성 강화 및 내부 로직 최적화"
 }
