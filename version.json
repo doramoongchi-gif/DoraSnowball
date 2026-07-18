@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.49",
-  "latestVersionCode": 88,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.49.apk",
-  "isForceUpdate": false,
-  "updateMessage": "v1.0.49: AI 브리핑 UI 최적화 및 리포트 예측 로직 안정화"
+  "latestVersionName": "1.0.50",
+  "latestVersionCode": 89,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.50.apk",
+  "isForceUpdate": true,
+  "updateMessage": "v1.0.50: 사이클시드 도입 및 카드 편집 편의성 개선"
 }
