@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.50",
-  "latestVersionCode": 89,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.50.apk",
-  "isForceUpdate": true,
-  "updateMessage": "v1.0.50: 사이클시드 도입 및 카드 편집 편의성 개선"
+  "latestVersionName": "1.0.51",
+  "latestVersionCode": 90,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.51.apk",
+  "isForceUpdate": false,
+  "updateMessage": "v1.0.51: 시뮬레이션 최적화 안정화 및 AI 시장 분석 리포트 고도화"
 }
