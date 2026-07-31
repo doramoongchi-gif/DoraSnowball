@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.54",
-  "latestVersionCode": 93,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.54.apk",
+  "latestVersionName": "1.0.55",
+  "latestVersionCode": 94,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.55.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.54: 마이너 버그 수정"
+  "updateMessage": "v1.0.55: 하락장 대응 로직 수정"
 }
