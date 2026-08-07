@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.55",
-  "latestVersionCode": 94,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.55.apk",
+  "latestVersionName": "1.0.56",
+  "latestVersionCode": 95,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.56.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.55: 하락장 대응 로직 수정"
+  "updateMessage": "v1.0.56: 카드 탭 잔고 및 시드 수정 기능 추가"
 }
