@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.58",
-  "latestVersionCode": 97,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.58.apk",
+  "latestVersionName": "1.0.59",
+  "latestVersionCode": 98,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.59.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.58: 리포트 정렬 개선 및 카드 탭 UI 최적화"
+  "updateMessage": "v1.0.59: 시스템 안정성 강화 및 데이터 일관성 최적화"
 }
