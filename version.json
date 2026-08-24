@@ -3,5 +3,5 @@
   "latestVersionCode": 100,
   "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.61.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.60: 리포트 및 시뮬레이션 UI 레이아웃 최적화"
+  "updateMessage": "v1.0.61: 소스 코드 정밀 분석 및 아키텍처 고도화 반영"
 }
