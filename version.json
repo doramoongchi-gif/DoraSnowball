@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.62",
-  "latestVersionCode": 101,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.62.apk",
+  "latestVersionName": "1.0.63",
+  "latestVersionCode": 102,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.63.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.62: 유동성 위기 대응 자동 분할수 조정 시스템 도입 및 UI 개선"
+  "updateMessage": "v1.0.63: 자동 백업 안정화 및 햅틱 피드백(물리적 촉감) 강화"
 }
