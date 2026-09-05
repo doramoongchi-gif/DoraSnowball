@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.63",
-  "latestVersionCode": 102,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.63.apk",
+  "latestVersionName": "1.0.64",
+  "latestVersionCode": 103,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.64.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.63: 자동 백업 안정화 및 햅틱 피드백(물리적 촉감) 강화"
+  "updateMessage": "v1.0.64: 아키텍처 고도화(Clean Architecture), 메모리 캐싱 도입 및 UI 안정성 강화"
 }
