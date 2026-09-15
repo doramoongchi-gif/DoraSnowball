@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.65",
-  "latestVersionCode": 104,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.65.apk",
+  "latestVersionName": "1.0.66",
+  "latestVersionCode": 105,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.66.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.65: 위기대응 전략 옵션화 및 시뮬레이션 고도화"
+  "updateMessage": "v1.0.66: 금융 계산 로직 엔진 통합 및 최적화"
 }
