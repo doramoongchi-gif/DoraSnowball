@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.69",
-  "latestVersionCode": 108,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.69.apk",
+  "latestVersionName": "1.0.70",
+  "latestVersionCode": 109,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.70.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.69: 카드 심플/프로 모드 토글 추가 및 안정성/동시성 최적화"
+  "updateMessage": "v1.0.70: 투자 난이도 시스템 고도화 및 UI 개선"
 }
