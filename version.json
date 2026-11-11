@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.70",
-  "latestVersionCode": 109,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.70.apk",
+  "latestVersionName": "1.0.71",
+  "latestVersionCode": 110,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.71.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.70: 투자 난이도 시스템 고도화 및 UI 개선"
+  "updateMessage": "v1.0.71: 시뮬레이션 가상 카드 세로 높이 최적화 및 가중 매수 잔고 정합성(마이너스 방지) 보완"
 }
