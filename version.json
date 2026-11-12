@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.71",
-  "latestVersionCode": 110,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.71.apk",
+  "latestVersionName": "1.0.72",
+  "latestVersionCode": 111,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.72.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.71: 시뮬레이션 가상 카드 세로 높이 최적화 및 가중 매수 잔고 정합성(마이너스 방지) 보완"
+  "updateMessage": "v1.0.72: 함박눈/싸락눈 난이도 잔고 부족 시 회차 왜곡 현상 정밀 보완"
 }
