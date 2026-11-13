@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.72",
-  "latestVersionCode": 111,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.72.apk",
+  "latestVersionName": "1.0.73",
+  "latestVersionCode": 112,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.73.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.72: 함박눈/싸락눈 난이도 잔고 부족 시 회차 왜곡 현상 정밀 보완"
+  "updateMessage": "v1.0.73: 시뮬레이션 최적화 엔진 주식 분할(Stock Split) 누락 오류 정밀 수정 및 백테스트 일치화"
 }
