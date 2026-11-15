@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.73",
-  "latestVersionCode": 112,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.73.apk",
+  "latestVersionName": "1.0.74",
+  "latestVersionCode": 113,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.74.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.73: 시뮬레이션 최적화 엔진 주식 분할(Stock Split) 누락 오류 정밀 수정 및 백테스트 일치화"
+  "updateMessage": "v1.0.74: 토스 증권 거래예약 다중 카드 수량 기반 중복 필터링 및 일일 잠금(Date Lock) 고도화"
 }
