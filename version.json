@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.74",
-  "latestVersionCode": 113,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.74.apk",
+  "latestVersionName": "1.0.75",
+  "latestVersionCode": 114,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.75.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.74: 토스 증권 거래예약 다중 카드 수량 기반 중복 필터링 및 일일 잠금(Date Lock) 고도화"
+  "updateMessage": "v1.0.75: 전체 거래 내역 조건 검색, 콤보박스 필터 고도화 및 카드 팝업 레이아웃 최적화"
 }
