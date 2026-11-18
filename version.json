@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.75",
-  "latestVersionCode": 114,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.75.apk",
+  "latestVersionName": "1.0.76",
+  "latestVersionCode": 115,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.76.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.75: 전체 거래 내역 조건 검색, 콤보박스 필터 고도화 및 카드 팝업 레이아웃 최적화"
+  "updateMessage": "v1.0.76: 카드별 독립 거래예약 체크박스 및 자동매매 시스템 도입"
 }
