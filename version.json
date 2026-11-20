@@ -1,6 +1,6 @@
 {
-  "latestVersionName": "1.0.76",
-  "latestVersionCode": 115,
+  "latestVersionName": "1.0.77",
+  "latestVersionCode": 116,
   "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.77.apk",
   "isForceUpdate": false,
   "updateMessage": "v1.0.77: 거래등록 자동수량 RSI 정밀 반영 및 거래등록 편의성 개선"
