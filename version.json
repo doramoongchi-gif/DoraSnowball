@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "1.0.77",
-  "latestVersionCode": 116,
-  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.77.apk",
+  "latestVersionName": "1.0.79",
+  "latestVersionCode": 118,
+  "updateUrl": "https://raw.githubusercontent.com/doramoongchi-gif/DoraSnowball/main/release/doraSnowBall_v1.0.79.apk",
   "isForceUpdate": false,
-  "updateMessage": "v1.0.77: 거래등록 자동수량 RSI 정밀 반영 및 거래등록 편의성 개선"
+  "updateMessage": "v1.0.79: 홈탭 알림 팝업 고도화, 소진매도 자동 거래등록 회차 정합성 보완 강화"
 }
